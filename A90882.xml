@@ -1,0 +1,297 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The trades-man's jevvel: or a safe, easie, speedy and effectual means, for the incredible advancement of trade, and multiplication of riches; shewing how men of indifferent estates, may abundantly increase both their own and other mens trading and riches, without parting with money, or any stock out of their own hands: by making their bills to become current instead of money, and frequently to revolve through their hands, with as much in money as the sums therein mentioned do amount unto.</title>
+            <author>Potter, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90882</idno>
+            <idno type="STC">Wing P3036</idno>
+            <idno type="STC">Thomason E614_9</idno>
+            <idno type="STC">ESTC R206533</idno>
+            <idno type="EEBO-CITATION">99865670</idno>
+            <idno type="PROQUEST">99865670</idno>
+            <idno type="VID">117918</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90882)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117918)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 94:E614[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The trades-man's jevvel: or a safe, easie, speedy and effectual means, for the incredible advancement of trade, and multiplication of riches; shewing how men of indifferent estates, may abundantly increase both their own and other mens trading and riches, without parting with money, or any stock out of their own hands: by making their bills to become current instead of money, and frequently to revolve through their hands, with as much in money as the sums therein mentioned do amount unto.</title>
+                  <author>Potter, William.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edward Husband and John Field, printers to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p.4: W. Potter.</note>
+                  <note>Annotation on Thomason copy: "8ber. [i.e. October] 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Commerce --  Early works to 1800.</term>
+               <term>Finance, Public --  Great Britain --  Early works to 1800.</term>
+               <term>Finance, Personal --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117918:1" rendition="simple:additions"/>
+            <p>THE TRADES-MAN'S JEWEL: OR A ſafe, eaſie, ſpeedy and effectual Means, for the incredible advancement OF TRADE, And Multiplication of RICHES; SHEWING How men of Indifferent Eſtates, may a<g ref="char:EOLhyphen"/>bundantly increaſe both their own and other Mens Trading and Riches, Without parting with Money, or any Stock out of their own hands: By making their Bills to become current in ſtead of Money, and frequently to revolve through their Hands, with as much in Money as the Sums therein mentioned do amount unto.</p>
+            <q>
+               <bibl>
+                  <hi>Eccleſ. 10.19.</hi>
+               </bibl> They prepare bread for laughter, and wine com<g ref="char:EOLhyphen"/>forteth the living; but money anſwereth to all.</q>
+            <p>
+               <hi>London,</hi> Printed by <hi>Edward Huſband</hi> and <hi>John Field,</hi> Prin<g ref="char:EOLhyphen"/>ters to the Parliament of <hi>England,</hi> 165<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:117918:2"/>
+            <pb n="3" facs="tcp:117918:2"/>
+            <head>TO THE Judicious Reader.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Incouragement which I have found (Courteous Reader) by the approbation of my Endeavors, from ſuch Judicious Men as have per<g ref="char:EOLhyphen"/>uſed the ſame, in a late Treatiſe (Called <hi>The Key of Wealth, or, A new way for Improving of Trade,</hi> &amp;c.) hath induced me to compoſe this Abbreviate, as an Abſtract thereof; to the end, That the truth of what is there at large demonſtrated, concerning the manifold Important Conſequences of the Enterpriſe therein mentioned, might here in ſome meaſure appear unto thoſe who have not yet read the aforeſaid Treatiſe, to be a thing of ſo Conſiderable Value, as (without Arrogancy, I may ſay) deſerves not onely the ſerious thoughts, but even much (if not moſt) of the time and endeavors of ſuch as are imployed in higheſt places of Authority.</p>
+            <p>I have therefore here Collected ſome brief and general Obſervations, whereby to diſcover, not to Mer<g ref="char:EOLhyphen"/>chants alone, but chiefly to Stateſ-men, and all others
+<pb n="4" facs="tcp:117918:3"/>that are Rational, the true <hi>Seed</hi> of Riches, and how it might be <hi>ſown</hi> throughout the whole Land.</p>
+            <p>And in order thereunto, do here publiquely Aſſert, <hi>That to make the Generality of the People of</hi> Eng<g ref="char:EOLhyphen"/>land (now much Impoveriſhed) <hi>exceeding Rich, (and that very ſpeedily) is neither Impoſſible, nor yet Dif<g ref="char:EOLhyphen"/>ficult,</hi> if a few men that are eminent in this Common<g ref="char:EOLhyphen"/>wealth, will vouchſafe ſometimes to afford their Pre<g ref="char:EOLhyphen"/>ſence and Countenance, to the carrying on of ſo publique and needful a Work, at a convenient place of meeting to be appointed ſhortly for that purpoſe; And if the wel<g ref="char:EOLhyphen"/>fare of this Nation be a thing that deſerves (indeed) not to be talked of, but purſued, I hope I ſhall be requi<g ref="char:EOLhyphen"/>red to make good what here I ſay, which I ſhall accompt my happineſs ſo to be.</p>
+            <p>I acknowledge that this enterpriſe may be both begun and carryed on (as I have hereafter declared) by a very few Men agreeing together; yet the Influence of ſuch as are of Repute, will doubtleſs make the practice there<g ref="char:EOLhyphen"/>of to become Univerſal (to the abundant inriching of the whole Nation) much more ſpeedily then otherwiſe; which as to all that are truly ennobled, muſt needs be a ſtrong Motive to act therein accordingly; and (if that were any Argument) it would exceedingly rejoyce him,</p>
+            <closer>
+               <signed>Who deſires to be yet further uſeful, <hi>W. POTTER.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="5" facs="tcp:117918:3"/>
+            <head>THE TRADES-MANS Jewel, &amp;c.</head>
+            <div n="1" type="section">
+               <head>SECT. I.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Advancement of Trade, conſiſteth chiefly in the great and quick Revolution of Commodity from Sea or Land, through the hands of Tradeſmen, to each particular perſon for his private uſe.</p>
+               <p>This Revolution of Commodity, is proportionable to the Revolution of Money, or that which goeth for ſuch<note n="(a)" place="margin">For men cannot afford to ſell more Ware in the year (up<g ref="char:EOLhyphen"/>on Credit, or otherwiſe) then one time with another they re<g ref="char:EOLhyphen"/>ceive money for.</note>.</p>
+               <p>Such Revolution of Money is according to the plenty thereof not hoorded up.</p>
+               <p>All the Houſes, Ships, Goods, Land, <hi>&amp;c.</hi> in a Nation, are uſually much above One hundred times more in value, then all the Money therein<note n="(b)" place="margin">It is verily beleeved, that all the Houſes, in and about <hi>London</hi> alone, are worth ten times more then all the Money in the Land.</note>.</p>
+               <p>The Multiplication of Money amongſt any People, doth through the Revolution there<g ref="char:EOLhyphen"/>of<note n="(c)" place="margin">The quantity of Goods taken in from Land or Sea, is proportionable to the quantity of Money yearly revolving.</note>, draw in ſo much Commodity amongſt them, (and put men upon Building Houſes, Ships, and Improving Land in ſuch ſort) as their Eſtates in other things do ſoon exceed ſuch multiplied ſtock of Moneys, accord<g ref="char:EOLhyphen"/>ing to the aforeſaid proportion.</p>
+               <pb n="6" facs="tcp:117918:4"/>
+               <p>Hereby it appears, That if Money could be in<g ref="char:EOLhyphen"/>creaſed ſo, as to be always equal in velue to what Mens Eſtates are otherwiſe worth<note n="(d)" place="margin">Whereby for every twen<g ref="char:EOLhyphen"/>ty ſhillings that men have in their hands, one time with an<g ref="char:EOLhyphen"/>other, they would then have above One hundred pound, to the abundant Multiplication of Mens expences; and by conſe<g ref="char:EOLhyphen"/>quence of Trading.</note>, (though never ſo much multiplied by ſuch In<g ref="char:EOLhyphen"/>creaſe of Money) it would be a means ſuddenly to Ingroſs all the Trade and Riches that the World could afford for Money.</p>
+               <p>Object. <hi>But would not ſuch plenty of Money pro<g ref="char:EOLhyphen"/>duce ſome notable Inconvenience?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> If Mens hands were never ſo full of Money, the Inconvenience muſt either be, That there is ſo much the more <hi>kept by,</hi> or ſo much there more <hi>laid out.</hi>
+               </p>
+               <p>The Money <hi>kept by,</hi> doth but imbolden Men to live the more comfortably, whereby Trade is the quicker.</p>
+               <p>The Money <hi>laid out,</hi> likewiſe doth no more harm, then what it doth by Increaſing Trade and Riches.</p>
+               <p>Object. <hi>But ſuch plenty of Money would raiſe the price of Commodity.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> No otherwiſe then by occaſioning more Commodity to be ſold in the year then formerly; in which reſpect any Increaſe of Trade whatſoever, is as much liable to raiſe the price of Commodity.</p>
+               <p>This Objection might be much more fully Anſwer<g ref="char:EOLhyphen"/>ed, but that I here intend all poſſible brevity, refer<g ref="char:EOLhyphen"/>ing to the aforeſaid Treatiſe.</p>
+            </div>
+            <div n="2" type="section">
+               <head>SECT. II.</head>
+               <p>IF it be demanded how Money may be multiplied amongſt us here in <hi>England,</hi> and how it can be kept from being hoorded up?</p>
+               <pb n="7" facs="tcp:117918:4"/>
+               <p>I anſwer, If Mens Credit may be tranſmitted each to other in Bills, and ſetled upon ſuch firm Security, as Men may be willing (of their own accord) to accept thereof in ſtead of Money (as ſometimes they do Bills of Exchange) it muſt needs follow, That the Revolution of ſuch Bills would Increaſe Trade as much, as if the ſame were ready Money;</p>
+               <p>The rather, becauſe thoſe Bills are not like to be hoorded up as Money is.</p>
+               <p>And this (ſeeing Mens Credits are equal in value to what their Eſtates are otherwiſe worth, in Houſes, Lands, Ships, Goods, or whatſoever) muſt needs tend to Increaſe Trade and Riches, according to the proportion already premiſed.</p>
+               <p>To this end therefore, let it be admitted,</p>
+               <p n="1">1. That ſome effectual means be diſcovered, for preventing the falſifying of the ſaid Bills, which I ſhall undertake to demonſtrate in due time.</p>
+               <p n="2">2. That the ſecurity for making good any of theſe Bills (or all of them at once, if required) be as firm as that of the Chamber of <hi>London,</hi> Bank of <hi>Amſterdam,</hi> or any Bills of Exchange; <hi>viz.</hi> To make them good either in Money at the end of ſix Moneths, or in Com<g ref="char:EOLhyphen"/>modity immediately: The way to effect which, I ſhall here diſcover.</p>
+               <p>And then (I ſay, in this Caſe) Men would be willing to accept of theſe Bills for Commodity in ſtead of Money, as I come now to prove.</p>
+            </div>
+            <div n="3" type="section">
+               <head>SECT. III.</head>
+               <p>THat in the Caſes before mentioned, Men would be willing to accept of Bills for Commodity in ſtead of Money, is manifeſt, if we conſider,</p>
+               <pb n="8" facs="tcp:117918:5"/>
+               <p n="1">1. That in <hi>Flanders</hi> this way of Trading upon Bills, is ordinary, and much preferred before that way of dealing upon Credit, here uſed.</p>
+               <p n="2">2. If Men be willing here to part with their Ware upon the private Credit of one another (as now they do) they would much rather accept of ſuch ſecurity for their Ware, as that of the Chamber of <hi>London, &amp;c.</hi>
+               </p>
+               <p n="3">3. Though Bills or Bonds be ſlighted, when the Se<g ref="char:EOLhyphen"/>curity for Payment of them is not good; yet if the Security be unqueſtionable, Men are willing to part with Money, much more with Commodity upon ſuch Security.</p>
+               <p n="4">4. If the Security for making good theſe Bills in Money within Six Moneths, were equal to that of the Chamber of <hi>London,</hi> Monyed men would advance ready Money for them, upon Rebatement of Intereſt; neither would any Man refuſe to take them for Com<g ref="char:EOLhyphen"/>modity, at the rate they would yield in ready Money.</p>
+               <p n="5">5. If moſt Men ſhould refuſe to take them, then the Trading would go all to thoſe that ſhould accept of them.</p>
+               <p n="6">6. Hereby the Wiſer ſort of Men would accompt it their great advantage, to publiſh themſelves willing to take them with Rebatement of Intereſt, ſeeing at leaſt they have ſufficient Security for making them all good within Six Moneths; and, rebating for Intereſt, are able to procure ready Money for them.</p>
+               <p n="7">7. As in theſe Reſpects few would refuſe them, ſo thoſe that ſhould accept of them, might eaſily put them off upon thoſe they conſtantly deal with, much rather then their own ſingle Credit: And if ſome be willing to take them, others will not refuſe them, be<g ref="char:EOLhyphen"/>cauſe they know whither to go with them.</p>
+            </div>
+            <div n="4" type="section">
+               <pb n="9" facs="tcp:117918:5"/>
+               <head>SECT. IV.</head>
+               <p>IT were a weak Objection to alleage, That this were no other then to Imbaſe the Coyn, or put Paper in the place of Money; For</p>
+               <p n="1">1. Theſe Bills need not be made currant by Law, (as baſe Money muſt) but by the Peoples Conſent.</p>
+               <p n="2">2. Braſs or Leather Money hath not an Intrinſecal value; whereas there being ſufficient Security given to make good theſe Bills when required, it is equivalent to an Intrinſecal value.</p>
+               <p n="3">3. The Counterfeiting (and by conſequence the Multiplying of Braſs or Leather Money beyond all bounds) could never yet be prevented; which as to theſe Bills may effectually be done, as I have already undertaken to make good.</p>
+               <p n="4">4. There is no Inconvenience in this way of Tra<g ref="char:EOLhyphen"/>ding upon Bills, which is not much more lyable to the ordinary way of dealing upon Truſt.</p>
+               <p>For, if a Man can take up Ware upon his bare word to pay at a certain time; what hurt can it do the Creditor, to take a Bill under his hand?</p>
+               <p>If a third Perſon knowing the Debitors Sufficiency, will accept of this Bill, with rebatement of Intereſt for that time in ſtead of Money, and thereupon furniſh the Creditor with Commodity; it not this better then if he had been forced to ſtay for the Money?</p>
+               <p>If this third Perſon take up as much Ware from this Debitor, as the Bill, with Rebatement of Intereſt, amounts to, and returns his own Bill for ſatisfaction; hath either the one or the other any prejudice thereby?</p>
+               <p>And thus, though Mens words cannot, yet their Credit in Bills may be tranſmitted to the ſecond, third, fourth, fifth hand, <hi>&amp;c.</hi> whereby fully to ſupply the
+<pb n="10" facs="tcp:117918:6"/>place of ſo much Money, to the abundant Multipli<g ref="char:EOLhyphen"/>cation of <hi>Trade</hi> and <hi>Riches;</hi> and that without the leaſt Inconvenience, other then what is already Incident to the ordinary way of Trading on Credit.</p>
+            </div>
+            <div n="5" type="section">
+               <head>SECT. V.</head>
+               <p>IF any doubt how the ſecurity for making good theſe Bills, ſhould be made as firm as that of the Chamber of <hi>London,</hi> or rather as any which on earth can be given.</p>
+               <p>Before I can reſolve this Doubt, I muſt propoſe the principal terms of an Agreement amongſt ſeveral Tradeſmen, in order to the ſettling of ſuch a Security.</p>
+               <p>Admit therefore, that ſeveral Tradeſmen agreeing together, do cauſe a certain number of Bills to be printed, and putting a value upon them, as ſuppoſe ten pound the piece, do lend the ſaid Bills each to o<g ref="char:EOLhyphen"/>ther, upon no leſs ſecurity then if the ſame were ſo much ready Money:</p>
+               <p>That is, let the whole Company lend to each par<g ref="char:EOLhyphen"/>ticular Member, ſo many of the ſaid Bills, as for which he ſhall put in ſufficient Security: Firſt, to repay in Money or Bills, within four Moneths after the de<g ref="char:EOLhyphen"/>manding thereof: Secondly, To ſtand bound with the reſt of the Company in maner following; <hi>viz.</hi>
+               </p>
+               <p>That the ſaid Company do enter into Bond, as Sure<g ref="char:EOLhyphen"/>ties each for other:</p>
+               <p n="1">1. To accept of half Bills, half Money, for their Ware.</p>
+               <p n="2">2. To make payment of theſe Bills in Money, if de<g ref="char:EOLhyphen"/>manded; <hi>viz.</hi>
+               </p>
+               <p>That they appoint an Office, where, upon delivering in of the ſaid Bills, they will give Bond for the pay<g ref="char:EOLhyphen"/>ment of them in Money within ſix Moneths.</p>
+               <pb n="11" facs="tcp:117918:6"/>
+               <p>And that each of the Members be bound to make good his proportion of the Bills brought in to the ſaid Office, within (ſuppoſe) four Moneths time, after no<g ref="char:EOLhyphen"/>tice thereof left at his houſe in writing.</p>
+               <p>Now, this being the ſubſtance of the Ingagement (to omit other things) it will be needful in the next place, a little to open the nature thereof.</p>
+            </div>
+            <div n="6" type="section">
+               <head>SECT. VI.</head>
+               <p>In caſe this Security for making good theſe Bills, ei<g ref="char:EOLhyphen"/>ther in Money within ſix Moneths after the demand<g ref="char:EOLhyphen"/>ing thereof, or in Commodity with half Money, will be found to be as good as that of the Chamber of <hi>London,</hi> or rather as any which on earth can be given, as ſhall be proved in the Section following:</p>
+               <p>I ſay in this Caſe, it cannot be doubted, but that each Member of this Company may procure Wave upon theſe Bills, far more eaſily then otherwiſe he might upon his own ſingle credit; and conſequently that they will go about for Commodity in the place of Money, as is manifeſt by the ſeveral Reaſons already given to that effect:</p>
+               <p>The rather, for that few men will trouble themſelves, either to ſell their Bills to monyed men, or ſtay ſix Moneths for their Money, when few will refuſe them for Commodity, at the ſame rate they will yield in ready Money, who for the ſame reaſon will put off the trouble of exchanging them upon others, and ſo <hi>ad in<g ref="char:EOLhyphen"/>finitum.</hi>
+               </p>
+               <p>Now, ſeeing this Company is not bound to make good any of theſe Bills in Money, until they be brought in to the ſaid Office, and from that day, have ſix Moneths time allowed for payment of them: It fol<g ref="char:EOLhyphen"/>lows,</p>
+               <pb n="12" facs="tcp:117918:7"/>
+               <p>That ſo long as any of them go about in the place of Money, the ſaid ſix Moneths time doth not commence, but the Money due upon theſe Bills from the ſaid Company, is forborn.</p>
+               <p>And when the Bills ſhall be brought in, then they have ſix Moneths time to pay for the Ware which they did procure upon ſuch Bills.</p>
+               <p>And though all theſe Bills ſhould be ſent in at once, yet the ſecurity will be abundantly ſufficient to make them good within ſix Moneths, as ſhall be immedi<g ref="char:EOLhyphen"/>ately proved.</p>
+               <p>Neither will the Company be any thing prejudiced thereby; for having procured Wave upon their Bills, before they parted with them, they are hereby onely required to pay for the ſame in Money, within the time appointed.</p>
+               <p>Yet it is not probable, that any conſiderable number of them will ever be brought in together; and thoſe that ſhall be ſo brought in, the Company exchanging for Money, may make uſe of immediately in ſtead of ſuch Money.</p>
+            </div>
+            <div n="7" type="section">
+               <head>SECT. VII.</head>
+               <p>THat the ſecurity for making good theſe Bills, may be as firm as any which on earth can be given:</p>
+               <p>Let (if it be thought needful) a whole Company of Inſurers (bound each for other) have one <hi>per Cent.</hi> for Inſurance, and permitted to have a Negative voyce in the Loan of theſe Bills.</p>
+               <p>And then conſidering, Firſt, that the whole Com<g ref="char:EOLhyphen"/>pany of Undertakers are bound each for other.</p>
+               <p n="2">2. That the whole Company of Inſurers, are bound for the Undertakers.</p>
+               <p n="3">3. That each of the Undertakers puts in ſuch ſe<g ref="char:EOLhyphen"/>curity for himſelf, as the Inſurers are willing to in<g ref="char:EOLhyphen"/>ſure for one <hi>per Cent.</hi>
+               </p>
+               <pb n="13" facs="tcp:117918:7"/>
+               <p>I ſay in this caſe, it can hardly be imagined, That one of the Undertakers amongſt an hundred, could ſo fail, as neither he nor his Sureties ſhould be able to make good the loſs.</p>
+               <p n="2">2. It is not the failing of one in an hundred, that can make the loſs ſo conſiderable, but that the one <hi>per Cent.</hi> given for Inſurance, much more the whole eſtates of all the Inſurers, yea, and the eſtates of all the Under<g ref="char:EOLhyphen"/>takers, together with their Sureties, are fully able to make good.</p>
+               <p n="3">3. It cannot be imagined, That thoſe few failers can both in themſelves and Sureties fail ſo, as not to make good the moſt part of what was borrowed by them.</p>
+               <p>Now, except the loſs be ſo great, as neither the ſai<g ref="char:EOLhyphen"/>lers with their Sureties, nor the whole Company of In<g ref="char:EOLhyphen"/>ſurers, nor yet the whole Company of Undertakers with all their Sureties, be able to make good by their whole eſtates, the ſecurity for making good theſe Bills, according to the terms propoſed, is a firm as any which on earth can be given.</p>
+               <p>And how any ſuch loſs ſhould happen without ſome general confuſion, (by ſurpriſal of an enemy or ſuch like) cannot be imagined; To the danger of which, the ſecurity of the Chamber of <hi>London,</hi> mens trading on credit without theſe Bills, nay their eſtates in their own hands, is no leſs liable.</p>
+            </div>
+            <div n="8" type="section">
+               <head>SECT. VIII.</head>
+               <p>IF the difficulty of producing ſecurity for borrowing of theſe Bills, be pleaded;</p>
+               <p>I anſwer, When any of the Halls of <hi>London</hi> proffer to lend Money to yong beginners <hi>gratis,</hi> it is ac<g ref="char:EOLhyphen"/>compted ſo great an advantage, as there are few but will make all poſſible ſhift to procure any ſecurity that ſhall be demanded.</p>
+               <pb n="14" facs="tcp:117918:8"/>
+               <p>Yet I ſay, That the Loan of theſe Bills ſhall be much greater advantage to the borrowers, then if they were proffered the Loan of ſo much Money <hi>gratis.</hi>
+               </p>
+               <p>For hereby the deal in ſuch a kinde of Money, as will be ſure not to go far about, without returning with as much in other Money upon their own hands (they being the onely perſons that are engaged to take it;) whereas thoſe that borrow the uſual currant Money now abroad, ſo ſoon as ever they lay it out, are never like to ſee it again.</p>
+               <p>Now this quick and thick Revolution of Bills (with as much in Money) through their hands, ſhall multi<g ref="char:EOLhyphen"/>ply their Trading to the utmoſt degree that they are poſſibly able to manage, as is fully cleared in my aforeſaid Treatiſe.</p>
+               <p>If the hazzard of being bound each for other, be objected:</p>
+               <p>I anſwer, The hazard is no whit greater then to be bound for the Chamber of <hi>London,</hi> or Bank of <hi>Am<g ref="char:EOLhyphen"/>ſterdam,</hi> in any thing wherein a whole Company of Inſurers ſhould be bound to ſave them harmleſs: For,</p>
+               <p n="1">1. The whole Company of Undertakers have ſuf<g ref="char:EOLhyphen"/>ficient Security from each particular Member.</p>
+               <p n="2">2. If one Member amongſt many ſhould fail, both in himſelf and Sureties, the Inſurers muſt ſave the Un<g ref="char:EOLhyphen"/>dertakers harmleſs.</p>
+               <p n="3">3. It is not to be doubted, but the Inſurers will be careful enough to take ſuch Security as the one <hi>per Cent.</hi> given for Inſurance, ſhall on time with another, more then make good all the loſſes incident to this un<g ref="char:EOLhyphen"/>dertaking; The contrary to which muſt not be granted.</p>
+               <p n="4">4. If it might be admitted, that any ſuch thing could happen once in an age, wherein neither the one <hi>per Cent.</hi> nor yet the whole eſtates of the Inſurers,
+<pb n="15" facs="tcp:117918:8"/>would be able fully to make good the loſs, yet not any one perſon alone, but the whole Company of Under<g ref="char:EOLhyphen"/>takers, are to diſcharge the reſt proportionably, where<g ref="char:EOLhyphen"/>in each mans ſhare would ſcarce be conſiderable.</p>
+               <p n="5">5. The ordinary way of Trading upon Truſt, is lia<g ref="char:EOLhyphen"/>ble to much greater hazard, which by this means will be made altogether needleſs.</p>
+               <p>For in the ſaid ordinary way of Trading, men uſe not either to take Security from their Debtors (much<g ref="char:EOLhyphen"/>leſs to inſure that Security) or to have any to bear the leaſt ſhare of the loſs, that frequently happens by truſt<g ref="char:EOLhyphen"/>ing them.</p>
+               <p>Whereas thoſe of this Engagement, ſeeing they may have as much Trading with ready pay in Money and Bills, as they are able to manage, ſhall not need to truſt any man whoſoever.</p>
+               <p>Yet if the difficulty of procuring Security, and the hazard of being bound each for other, do ſtick in mens mindes;</p>
+               <p>I ſhall propoſe a way for removing of both, to thoſe whom it concerns, when need requireth.</p>
+            </div>
+            <div n="9" type="section">
+               <head>SECT. IX.</head>
+               <p>THis Enterpriſe is demonſtrated in my aforeſaid Treatiſe, to be of ſuch a nature, as whereby</p>
+               <p>Firſt, A very few men may both begin and continue the practiſe thereof; and that ſo, as if others do not joyn with them, they will ſuddenly be able (by un<g ref="char:EOLhyphen"/>derſelling them through their quick returns) to ingroſs all the Trading into their own hands.</p>
+               <p n="2">2. Hereby all the Tradeſmen in the Land would be both encouraged and neceſſitated to joyn in the ſame Practiſe.</p>
+               <p n="3">3. Seeing the number of Bills would thereby be increaſed proportionably, it would produce as much
+<pb n="16" facs="tcp:117918:9"/>Trading to the Generality of men, as they could poſ<g ref="char:EOLhyphen"/>ſibly manage.</p>
+               <p n="4">4. Beſides the things formerly mentioned, <hi>viz.</hi> Their having as much lent them (without paying In<g ref="char:EOLhyphen"/>tereſt) as they are able to put in Security to borrow, with as much Trading as they are able to manage, and all that with ready pay, either in Money or Bills:</p>
+               <p>Their Eſtates being increaſed by ſuch quick Tra<g ref="char:EOLhyphen"/>ding, with ſuch doubled ſtock, they may procure great<g ref="char:EOLhyphen"/>er Security, whereby to borrow more Bills to the doubling of ſuch increaſe, and ſo <hi>ad infinitum.</hi>
+               </p>
+               <p>Now, this perpetual doubling the Increaſe of their ſtock, is of ſo great concernment, as though mens Trading ſhould be but ordinary; yet it will make an Eſtate of 1000 l. to amount in 40 years to 500 Milli<g ref="char:EOLhyphen"/>ons, as is cleared in the ſaid Treatiſe: And by conſe<g ref="char:EOLhyphen"/>quence, it would make the people of this Nation to be worth in 40 years (the World affording but Commo<g ref="char:EOLhyphen"/>dity enough for Money) five hundred thouſand times more then now they are; that is, he who is now worth but twenty ſhillings to be worth five hundred thouſand pounds, and ſo of others proportionably.</p>
+               <p>Further, If this would be the conſequence, although men Trading ſhould be but ordinary, what may we think will follow, when their dealings ſhall be perpetu<g ref="char:EOLhyphen"/>ally as great as they are able to manage?</p>
+               <p>Many other conſiderable Advantages would follow from this Enterpriſe (without any inconvenience to counterpoiſe the ſame) as is particularly demonſtrated in the aforeſaid Treatiſe, which I earneſtly deſire that all men will ſeriouſly peruſe, who tender the good of this Commonwealth.</p>
+            </div>
+            <epigraph>
+               <q>Soli Deo Gloria.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
